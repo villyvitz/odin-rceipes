@@ -1,0 +1,30 @@
+.image{
+    width:600px;
+    height:auto;
+}
+
+.list{
+    text-align: center;
+}
+
+.ingredient,
+.step{
+    color:blue;
+}
+
+.ingredient{
+    font-size:10px;
+}
+
+.step{
+    font-size: 15px;
+}
+
+.recipe{
+    background-color: purple;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#title{
+    background-color: red;
+}
